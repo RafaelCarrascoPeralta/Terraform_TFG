@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# INSTALACION DE DOCKER
-
 # INSTALACION DOCKER
 echo "INSTALACION DE DOCKER"
 sudo apt update -y
